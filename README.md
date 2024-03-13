@@ -1,2 +1,8 @@
-# Budget-Allocation-Application
-Developed a Budget Allocation Application using HTML, CSS, JavaScript, and React.
+# React Budget App
+
+To run:
+
+```
+npm install 
+npm start 
+```
